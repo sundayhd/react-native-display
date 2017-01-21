@@ -1,7 +1,23 @@
 # react-native-display
-## This module brings "Display: none" (css style) to turn on/off components from render. Using this module will improve your app performance and appearance with the enter/exit animations.
+This module brings "Display: none" (css style) to turn on/off components from render. Using this module will improve your app performance and appearance with the enter/exit animations.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Installation
+
+`$ npm install react-native-display --save`
+
+## Usage
+```js
+import Display from 'react-native-display';
+```
+### Then
+```markdown
+<Display enable={this.state.enable}>
+  <Text> My custom components </Text>
+</Display>
+```
+
+
+
 
 ```markdown
 Syntax highlighted code block
