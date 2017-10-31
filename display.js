@@ -7,7 +7,7 @@ import {
 } from 'react-native';
 
 import * as Animatable from 'react-native-animatable';
-const screen = Dimensions.get('window');
+const screen = Dimensions.get('screen');
 const WIDTH = screen.width;
 const HEIGHT = screen.height;
 

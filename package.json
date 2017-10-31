@@ -1,0 +1,11 @@
+{
+  "name": "@the-bubbles-company/react-native-display",
+  "version": "1.0.9",
+  "main": "display.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react-native-animatable": "^1.1.0"
+  }
+}
