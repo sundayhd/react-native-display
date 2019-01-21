@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Danny Michaeli",
+    "url": "sundayhd5@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/sundayhd/react-native-display/issues"
+  },
+  "dependencies": {
+    "react-native-animatable": "^1.3.1"
+  },
+  "description": "This module brings \"Display: none\" (css style) to turn on/off components from render. Using this module will improve your app performance and appearance with the enter/exit animations.",
+  "homepage": "https://github.com/sundayhd/react-native-display#readme",
+  "keywords": [
+    "react-native",
+    "react",
+    "native",
+    "display",
+    "react-native-display",
+    "display:none",
+    "none",
+    "css"
+  ],
+  "license": "MIT",
+  "main": "display.js",
+  "name": "react-native-display",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sundayhd/react-native-display.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.8"
+}
