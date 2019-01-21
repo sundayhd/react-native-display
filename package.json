@@ -21,6 +21,7 @@
     "none",
     "css"
   ],
+  "typings": "index.d.ts",
   "license": "MIT",
   "main": "display.js",
   "name": "react-native-display",
