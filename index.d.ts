@@ -112,6 +112,6 @@ declare module "react-native-display" {
         keepAlive?: boolean;
     }
 
-    export class Display extends Component<DisplayProps> {
+    export default class Display extends Component<DisplayProps> {
     }
 }
